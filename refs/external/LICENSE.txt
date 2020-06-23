@@ -1,0 +1,11 @@
+NON-LICENSE
+-----------
+
+This directory contains material directly sourced from others. I do
+not own the rights to any of this material, and it has not been
+explicitly licensed to me/us, so I cannot and do not grant any license
+to others.
+
+To the best of my knowledge it has been made public and the authors
+have no objection to it being collected here, and if I hear otherwise
+will happily remove the offending material.
